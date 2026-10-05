@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+
+# Project-specific
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+models/
+*.pkl
