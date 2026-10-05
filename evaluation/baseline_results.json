@@ -1,0 +1,8 @@
+{
+  "model": "tfidf_logreg_text_only",
+  "pr_auc": 0.2427,
+  "roc_auc": 0.6199,
+  "f1_dispute": 0.3087,
+  "train_rows": 136835,
+  "test_rows": 24147
+}

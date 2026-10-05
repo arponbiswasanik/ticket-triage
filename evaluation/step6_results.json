@@ -1,0 +1,7 @@
+{
+  "model": "tfidf_plus_structured_logreg",
+  "roc_auc": 0.6297,
+  "pr_auc": 0.2513,
+  "baseline_roc_auc": 0.6199,
+  "lift_vs_baseline": 0.0098
+}
