@@ -1,0 +1,13 @@
+.git
+.venv
+.env
+data/raw
+data/processed/train.parquet
+data/processed/test.parquet
+data/processed/test_routed.parquet
+notebooks
+tests
+__pycache__
+*.pyc
+.ipynb_checkpoints
+*.png
