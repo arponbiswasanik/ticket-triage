@@ -1,0 +1,128 @@
+[
+  {
+    "complaint_id": 2325227,
+    "stored_faith": 0.0,
+    "claims": [
+      {
+        "text": "We will open an investigation into the fraudulent inquiry(s) linked to your account.",
+        "supported": false
+      },
+      {
+        "text": "We will verify the fraudulent inquiry(s) and remove them from your credit report.",
+        "supported": false
+      },
+      {
+        "text": "We will place a fraud alert on your file to help prevent further unauthorized activity.",
+        "supported": false
+      },
+      {
+        "text": "We will provide you with a written confirmation of the actions taken.",
+        "supported": false
+      },
+      {
+        "text": "A specialist will review your case and follow up within 2\u20113 business days.",
+        "supported": false
+      }
+    ]
+  },
+  {
+    "complaint_id": 2418694,
+    "stored_faith": 0.2,
+    "claims": [
+      {
+        "text": "We\u2019re sorry to hear that you\u2019re receiving repeated calls about a payment that is only three days past due.",
+        "supported": true
+      },
+      {
+        "text": "Cases like yours\u2014where borrowers receive multiple calls after a short\u2011term missed payment\u2014are typically resolved by asking the collector to cease excessive contact and to honor any applicable grace period before pursuing further action.",
+        "supported": false
+      },
+      {
+        "text": "We have logged your complaint and will forward it to the appropriate specialist.",
+        "supported": false
+      },
+      {
+        "text": "They will review the collection practices of the new loan owner and work with you to ensure communications are limited to reasonable times and frequencies.",
+        "supported": false
+      },
+      {
+        "text": "A specialist will reach out to you shortly to confirm next steps.",
+        "supported": false
+      }
+    ]
+  },
+  {
+    "complaint_id": 2445509,
+    "stored_faith": 0.286,
+    "claims": [
+      {
+        "text": "We\u2019re sorry you\u2019ve had to repeat this dispute without receiving the verification details you\u2019re entitled to under the Fair Credit Reporting Act.",
+        "supported": true
+      },
+      {
+        "text": "Several customers who have raised the same issue with Experian were told that the items were \u201cverified\u201d and were then asked for a \u201cmethod of verification\u201d form, but Experian either failed to provide the form or required additional information before re\u2011investigating\u202f[C-1639110],\u202f[C-1871951],\u202f[C-1379703].",
+        "supported": true
+      },
+      {
+        "text": "Under the FCRA, Experian must supply you with the specific documentation or \u201cmethod of verification\u201d it used to confirm any disputed item.",
+        "supported": false
+      },
+      {
+        "text": "If they refuse or condition a reinvestigation on further information you have not supplied, that practice is contrary to the law.",
+        "supported": false
+      },
+      {
+        "text": "We have logged your complaint and will forward it to our credit\u2011reporting specialist team.",
+        "supported": false
+      },
+      {
+        "text": "A specialist will contact you within the next\u202f2\u20113\u202fbusiness days to confirm next steps.",
+        "supported": false
+      }
+    ]
+  },
+  {
+    "complaint_id": 2394989,
+    "stored_faith": 0.333,
+    "claims": [
+      {
+        "text": "Based on similar cases where borrowers were unable to access income\u2011driven repayment options and experienced growing balances (e.g.,\u202f[C\u20112297086],\u202f[C\u20111826541],\u202f[C\u20112297694]), we understand that the lack of clear information can be frustrating and can impact credit scores.",
+        "supported": true
+      },
+      {
+        "text": "Because the details you\u2019ve provided match the issues seen in those prior cases, the typical resolution is to provide a detailed explanation of your repayment options\u2014including any available income\u2011driven plans\u2014and to correct any billing errors that may be causing unnecessary interest accrual.",
+        "supported": false
+      },
+      {
+        "text": "A specialist from our loan servicing team will review your account, verify the loan history, and contact you within the next 1\u20112 business days to discuss possible repayment or consolidation options and to ensure your credit reporting reflects accurate information.",
+        "supported": false
+      }
+    ]
+  },
+  {
+    "complaint_id": 2418070,
+    "stored_faith": 0.4,
+    "claims": [
+      {
+        "text": "We\u2019re sorry to hear about the difficulties you\u2019ve experienced with your mortgage\u2011modification request and the upcoming foreclosure sale.",
+        "supported": true
+      },
+      {
+        "text": "Your frustration is understandable, especially after submitting documentation multiple times and being transferred between relationship managers.",
+        "supported": true
+      },
+      {
+        "text": "We have reviewed similar cases where borrowers faced prolonged delays and lack of response from their servicer (e.g.,\u202f[C-2220857]\u202fand\u202f[C-1533181]), and those cases were closed with an explanation after a specialist intervened.",
+        "supported": false
+      },
+      {
+        "text": "At this point, we will escalate your file to a dedicated mortgage\u2011modification specialist who will review all of the documents you have provided, verify the quit\u2011claim deed, and work with the servicer to move your request forward as quickly as possible.",
+        "supported": false
+      },
+      {
+        "text": "You should hear from the specialist within the next 1\u20112 business days.",
+        "supported": false
+      }
+    ]
+  }
+]
