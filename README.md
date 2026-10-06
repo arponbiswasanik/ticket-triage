@@ -2,11 +2,6 @@
 
 ML triage + RAG response drafting for consumer-finance support desks — calibrated dispute-risk routing, hybrid retrieval, grounded LLM drafts with citations, and confidence-based human escalation.
 
-![Python 3.11](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
-
 ---
 
 ## Why This Exists
