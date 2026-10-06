@@ -1,0 +1,42 @@
+[
+  {
+    "complaint_id": 2426436,
+    "status": "drafted",
+    "top_sim": 0.735,
+    "threshold": 0.658,
+    "draft": "We\u2019re sorry to hear about the distress this situation has caused you.\u202fBased on the details you provided, it appears that an account was opened in your name without your consent and that you are under\u2011age to have entered into a contract.  \n\nWe have handled similar complaints where the consumer did not recognize the debt or account and where the account was opened without authorization (see\u202f[C-1965976]\u202fand\u202f[C-2258817]). In those cases the issue was closed after we provided an explanation and confirmed that the debt was not yours.  \n\nTo resolve this matter, we will:\n\n1. Verify the account in question and confirm that it does not belong to you.  \n2. Review any documentation showing that the account was opened without your consent or while you were underage.  \n3. Ensure the collection effort is halted and that the account is removed from your credit file if it was incorrectly reported.  \n\nA specialist from our debt\u2011collection team will contact you within the next 2\u20113 business days to gather any additional information needed and to confirm the next steps. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.",
+    "cited": [
+      "1965976",
+      "2258817"
+    ],
+    "citations_valid": true,
+    "llm_seconds": 1.0
+  },
+  {
+    "complaint_id": 2360542,
+    "status": "drafted",
+    "top_sim": 0.747,
+    "threshold": 0.658,
+    "draft": "We\u2019re sorry you\u2019ve had to endure repeated, aggressive phone calls and a lack of written information about your balance.\u202fWe understand how stressful this is, especially when you\u2019ve already made a payment and are trying to evaluate your options.\n\nYour experience is similar to other customers who reported harassing calls from Atlantic Credit &\u202fFinance and who were unable to obtain a written statement of the debt\u202f[C-1304847].\u202fIt also mirrors cases where callers demanded payment without providing documentation, and the resolution was to have the collector cease improper contact and supply a written account summary\u202f[C-2165636].\n\nWe will:\n\n1.\u202fAsk Atlantic Credit &\u202fFinance to immediately stop any further threatening calls and to provide you a detailed written statement of the alleged balance, including how any recent payments were applied.  \n2.\u202fEscalate this matter to our compliance team, who will review the collector\u2019s conduct for possible violations of debt\u2011collection rules.  \n\nA specialist will follow up with you within one business day to confirm that the written statement has been sent and to discuss any next steps. Thank you for bringing this to our attention, and we apologize for the inconvenience.",
+    "cited": [
+      "1304847",
+      "2165636"
+    ],
+    "citations_valid": true,
+    "llm_seconds": 1.3
+  },
+  {
+    "complaint_id": 2432235,
+    "status": "drafted",
+    "top_sim": 0.781,
+    "threshold": 0.658,
+    "draft": "We\u2019re sorry you\u2019re experiencing these aggressive calls.\u202fYour description matches several prior complaints where collectors continued contacting the consumer and family members, demanded payment for a debt the caller did not recognize, and threatened legal action without first providing verification\u202f[C-1750125][C-1522455][C-1988981].  \n\nUnder the Fair Debt Collection Practices Act, a collector must provide you with written validation of the debt before any further contact or collection activity. They may not threaten arrest, jail time, or legal action unless they have a legitimate court judgment, and they must cease contacting third parties if you request it.  \n\nBecause the collector has not supplied the required proof and is using unlawful threats, you have the right to request that they stop all communications (a \u201ccease\u2011and\u2011desist\u201d request) in writing. If the calls continue, you may consider filing a complaint with the Consumer Financial Protection Bureau or your state attorney general.  \n\nWe have logged your complaint and a specialist will review the details and follow up with you shortly. Thank you for bringing this to our attention.",
+    "cited": [
+      "1522455",
+      "1750125",
+      "1988981"
+    ],
+    "citations_valid": true,
+    "llm_seconds": 1.0
+  }
+]
