@@ -1,0 +1,22 @@
+{
+  "winner": "lightgbm",
+  "calib_slice_scores": {
+    "logreg": {
+      "roc_auc": 0.6376,
+      "pr_auc": 0.3199,
+      "fit_seconds": 62
+    },
+    "lightgbm": {
+      "roc_auc": 0.6415,
+      "pr_auc": 0.3242,
+      "fit_seconds": 253
+    }
+  },
+  "test_roc_auc_raw": 0.6245,
+  "test_roc_auc_calibrated": 0.6237,
+  "test_pr_auc_calibrated": 0.235,
+  "test_brier_raw": 0.1389,
+  "test_brier_calibrated": 0.1355,
+  "test_ece_raw": 0.0664,
+  "test_ece_calibrated": 0.0468
+}

@@ -1,0 +1,13 @@
+{
+  "t_auto_draft": 0.2,
+  "t_priority": 0.3129,
+  "costs": {
+    "C_human": 15.0,
+    "C_dispute": 75.0,
+    "C_auto": 1.0
+  },
+  "automation_rate": 0.4886,
+  "dispute_rate_auto_draft": 0.1126,
+  "priority_dispute_capture": 0.1934,
+  "cost_saved_pct": 0.181
+}
