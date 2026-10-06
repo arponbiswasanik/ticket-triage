@@ -41,6 +41,15 @@ Same API, three complaints, three decisions — the calibrated risk decides the 
 | Credit-bureau dispute, verification details withheld | 0.262 | `standard_human` |
 | Broker closed unauthorized-transaction disputes without investigation | 0.485 | `priority_human` |
 
+
+<img width="1419" height="543" alt="Screenshot 2026-10-06 165246" src="https://github.com/user-attachments/assets/0356d797-b87d-4120-b045-5007b3de94b0" />
+<img width="1420" height="476" alt="Screenshot 2026-10-06 165104" src="https://github.com/user-attachments/assets/c8efc2ae-cc22-43ae-89be-ff5983446324" />
+<img width="1419" height="544" alt="Screenshot 2026-10-06 165448" src="https://github.com/user-attachments/assets/82a7378b-10df-40d3-bd67-8554944ed6da" />
+<img width="1417" height="482" alt="Screenshot 2026-10-06 165502" src="https://github.com/user-attachments/assets/1462cbd6-4d92-488c-95d3-b00c0a02e643" />
+<img width="1417" height="514" alt="Screenshot 2026-10-06 164815" src="https://github.com/user-attachments/assets/dab41160-4b26-409f-bfcd-40d0170015ba" />
+<img width="1417" height="445" alt="Screenshot 2026-10-06 164908" src="https://github.com/user-attachments/assets/5020f413-523e-4070-9c0b-e1cd5c6094d8" />
+
+
 ---
 
 ## Architecture
